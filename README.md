@@ -16,11 +16,11 @@ Ig : programmerhusein
 🔎 What is being studied :
 
 
-👑 HTML                         Until proficient 
+👑 HTML                        ( Until proficient )
 
-👑 CSS                          Until proficient
+👑 CSS                         ( Until proficient )
 
-👑 JAVASCRIPT                   Until proficient 
+👑 JAVASCRIPT                  ( Until proficient )
 
 
 
@@ -50,4 +50,4 @@ $ MERENDAH 🚮 UNTUK MEROKET 🚀
 
 
 
-                                # SALAM PROGRAMMER
+                            # SALAM PROGRAMMER
