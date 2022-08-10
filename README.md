@@ -1,7 +1,6 @@
 😎 someone who is cold !!!
 
 
-# hansevenpro
 
 Name : Muhamad Farhan 
 
@@ -38,16 +37,15 @@ email : mehanssocialmedia@gmail.com
 ✉️ Message :
 
 
-$ RAJIN BERIBADAH
+ • RAJIN BERIBADAH
 
-$ RAJIN BELAJAR
+ • RAJIN BELAJAR
 
-$ BERUSAHA BAIK
-
-$ MENYENDIRILAH
-
-$ MERENDAH 🚮 UNTUK MEROKET 🚀
+ • BERUSAHA BAIK
 
 
+• MERENDAH 🚮 UNTUK MEROKET 🚀
 
-                            # SALAM PROGRAMMER
+
+
+                            🙏 SALAM PROGRAMMER
